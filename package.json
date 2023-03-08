@@ -1,6 +1,6 @@
 {
   "name": "@alexandrermo/teste-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/alexandrermo/teste-package/issues"
   },
-  "homepage": "https://github.com/alexandrermo/teste-package#readme"
+  "homepage": "https://github.com/alexandrermo/teste-package#readme",
+  "type": "module"
 }
