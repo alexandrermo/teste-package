@@ -1,2 +1,2 @@
-export {sevice} from './service.js';
-export {utils} from './utils.js';
+export {default as sevice} from './service.js';
+export {default as utils} from './utils.js';
