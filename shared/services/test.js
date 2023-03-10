@@ -1,3 +1,3 @@
 export default  () => {
-    console.log('service')
+    console.log('service 2');
 }
